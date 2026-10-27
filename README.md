@@ -16,7 +16,7 @@ PostgreSQL (data cleaning and analysis) • Power BI (dashboard)
 5. Built a Power BI dashboard with KPI cards, five visuals and Region and Product Category slicers
 
 ## Dashboard
-Check for dashboard.png
+[Dashboard](dashboard.png)
 ## Key numbers
 - Revenue: ₦15.54M
 - Cost: ₦1.74M
@@ -45,6 +45,28 @@ Check for dashboard.png
 - Next steps: compare average profit per transaction for waived and non-waived fees, and check the July transaction count.
 
 ## Files
-- `NovaTrust_Report.docx`: full write-up
-- `NovaTrust.pbix`: Power BI file
-- `queries.sql`: SQL queries
+- `NovaTrust Bank Assignment.docx`: full write-up of the process, dashboard explanation, findings and recommendations
+- `dashboard.png`: final Power BI dashboard
+- `Q1` to `Q5` screenshots: SQL query results for each business question
+
+- ## SQL Analysis
+
+**Q1: Which branch earns the most revenue?**
+
+![Q1](Q1-Top%20branch%20by%20revenue%20.png)
+
+**Q2: Which customer segment earns the most revenue?**
+
+![Q2](Q2-customer-segment%20with%20most%20revenue.png)
+
+**Q3: Which product has the most transactions?**
+
+![Q3](Q3-product%20with%20highest%20transaction.png)
+
+**Q4: How does revenue change over time?**
+
+![Q4](Q4-monthly%20revenue%20over%20time2.png)
+
+**Q5: How do fee waivers affect profitability?**
+
+![Q5](Q5-%20fee-waiver%20and%20profitability.png)
