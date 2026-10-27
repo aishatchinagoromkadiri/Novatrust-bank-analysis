@@ -42,8 +42,6 @@ PostgreSQL (data cleaning and analysis) • Power BI (dashboard)
 ## Limitations and next steps
 
 - This is a simulated dataset, and the analysis covers one year of data.
-- Next steps: compare average profit per transaction for waived and non-waived fees, and check the July transaction count.
-
 ## Files
 - `NovaTrust Bank Assignment.docx`: full write-up of the process, dashboard explanation, findings and recommendations
 - `dashboard.png`: final Power BI dashboard
